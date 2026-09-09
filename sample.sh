@@ -1,2 +1,3 @@
 echo "today date is " $date
-echo "Your name"
+echo "Your name zoheb"
+echo "Rafe mc"

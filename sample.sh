@@ -1,5 +1,5 @@
 echo "today date is " $date
-echo "Your name zoheb"
+echo "Your name zoheb and your name "
 echo "Rafe mc"
 echo "add fourth line"
 
